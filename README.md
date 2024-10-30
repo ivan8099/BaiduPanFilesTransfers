@@ -2,7 +2,7 @@
 
 百度网盘批量转存程序，基于 `Python 3.10` + `Tkinter` 构建，主要用于批量转存网络上分享的资源到自己的百度网盘。此外还带有批量分享和批量检测链接有效性的功能。
 
-程序主界面：
+程序主界面：XXXXXXX
 
 ![百度网盘批量转存程序主界面截图](https://raw.githubusercontent.com/hxz393/BaiduPanFilesTransfers/master/Capture/v2.8.0.jpg)
 
